@@ -2,6 +2,11 @@
 
 Palabra is a Spanish version of the popular word-guessing game Wordle. Players have six attempts to guess a five-letter word, with color-coded feedback for each guess.
 
+https://bhanu9prakash.github.io/palabra/
+
+![image](https://github.com/user-attachments/assets/2c32101b-e645-49a7-95aa-6fb441d0bca9)
+
+
 ## Features
 
 - Daily Spanish word puzzle
